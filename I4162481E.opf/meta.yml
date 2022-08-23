@@ -7,6 +7,10 @@ last_modified: '2022-08-01T10:24:04.626802'
 parser: null
 source_metadata:
   title: Commentary
+  base:
+    73CB:
+      title: Commentary
+      base_file: 73CB.txt
 statistics: {}
 quality: {}
 copyright:
